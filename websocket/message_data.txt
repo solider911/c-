@@ -1,0 +1,7 @@
+client:222.212.184.19:41450 gateway:127.0.0.1:7272  client_id:7f00000108fe00000003 session:null onMessage:{"type":"pubg","roomid":"1004","msg":"cahsdiufas"}
+client:222.212.184.19:38201 gateway:127.0.0.1:7272  client_id:7f00000108fe00000001 session:{"room_id":"1","client_name":"chb"} onMessage:{"type":"pong"}
+client:222.212.184.19:38201 gateway:127.0.0.1:7272  client_id:7f00000108fe00000001 session:{"room_id":"1","client_name":"chb"} onMessage:{"type":"say","to_client_id":"all","to_client_name":"ææäºº","content":"çå¨å­"}                                                              
+
+
+
+
